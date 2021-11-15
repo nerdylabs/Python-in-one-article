@@ -16,6 +16,10 @@ array.append('value')
 print(array)
 
 
+# Get the length of the the array
+print(len(array))
+
+
 dictionary = {
     'age': 50,
     'name': 'Joe',
